@@ -1,0 +1,15 @@
+---
+addr: '0x80d211718f9b9ba31959a14328acd8d8c9d5382f'
+decimals: 6
+description: >-
+  Inspired by emerging projects of deflationary currencies, we wonder what a currency that does not self-destruct, but that gradually increases its volume every time it is used, could achieve.
+  Thinking about the mining process in which people use machines and computers to obtain new units of coins, we decided to apply this concept within a smart contract where new particles are created whenever a transaction is carried out, thus replacing the working power of mining equipment by the asset's usability power.
+links:
+- CoinGecko: https://www.coingecko.com/pt/moedas/palmes
+- Email: contact@palmestoken.com
+- Telegram: https://t.me/PalmesToken
+- Twitter: https://twitter.com/PalmesToken
+- Website: https://palmestoken.com/
+- Whitepaper: http://palmestoken.com/wa_files/whitepaper-palmes.pdf
+name: Palmes
+symbol: PLM
